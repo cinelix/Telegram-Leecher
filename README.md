@@ -2,9 +2,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/125879861/255391401-371f3a64-732d-4954-ac0f-4f093a6605e1.png" alt="Telegram Leecher Banner" width="750">
-</p>
 
 <p align="center">
   <strong>High-performance, Colab-powered transloading bot built on Pyrogram.</strong><br>
