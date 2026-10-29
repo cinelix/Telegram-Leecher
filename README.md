@@ -106,9 +106,6 @@ Before executing the notebook, gather the following credentials:
 5. Open your bot in Telegram and send `/start`.
 ```
 
----
-
-### Part 2: Commands, Syntax, and Policy
 
 
 ## 🤖 Bot Command Reference
