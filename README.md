@@ -104,9 +104,9 @@ Before executing the notebook, gather the following credentials:
    ```
 4. Click **Run Cell** (`Ctrl + Enter`).
 5. Open your bot in Telegram and send `/start`.
-```
 
 
+---
 
 ## 🤖 Bot Command Reference
 
